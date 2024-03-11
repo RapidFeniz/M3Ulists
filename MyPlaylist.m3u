@@ -1,0 +1,88 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[China] CGTN [EN]" tvg-logo="" group-title="INTERNATIONAL",[China] CGTN [EN]
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[China] CGTN Documentary [EN]" tvg-logo="" group-title="INTERNATIONAL",[China] CGTN Documentary [EN]
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[China] CGTN Español [ES]" tvg-logo="" group-title="INTERNATIONAL",[China] CGTN Español [ES]
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[China] CNC English [EN]" tvg-logo="" group-title="INTERNATIONAL",[China] CNC English [EN]
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+#EXTINF:-1 tvg-id="ArirangTV(English).mx" tvg-name="[Corea del Sur] Arirang [EN]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87646_dark_360w_270h.png" group-title="INTERNATIONAL",[Corea del Sur] Arirang [EN]
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[Corea] KBS World [EN subs]" tvg-logo="" group-title="INTERNATIONAL",[Corea] KBS World [EN subs]
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[Guinea Ecuatorial] TVGE [ES]" tvg-logo="" group-title="INTERNATIONAL",[Guinea Ecuatorial] TVGE [ES]
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[Japon] Animax [JP]" tvg-logo="" group-title="INTERNATIONAL",[Japon] Animax [JP]
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[Japon] ANIPLUS [JP]" tvg-logo="" group-title="INTERNATIONAL",[Japon] ANIPLUS [JP]
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[Japon] AT-X [Not 24/7] [JP]" tvg-logo="" group-title="INTERNATIONAL",[Japon] AT-X [Not 24/7] [JP]
+https://sub2.neetball.net/live/neet.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[Japon] BS Fuji TV [JP]" tvg-logo="" group-title="INTERNATIONAL",[Japon] BS Fuji TV [JP]
+http://cdn.us195.jpnettv.live:1935/jptv/bsfuji_540/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[Japon] BS TV Tokyo [JP]" tvg-logo="" group-title="INTERNATIONAL",[Japon] BS TV Tokyo [JP]
+http://203.162.235.41:16915
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[Japon] Fuji TV [Not 24/7] [JP]" tvg-logo="" group-title="INTERNATIONAL",[Japon] Fuji TV [Not 24/7] [JP]
+https://fujitv2.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[Japon] MTV Japan [JP]" tvg-logo="" group-title="INTERNATIONAL",[Japon] MTV Japan [JP]
+http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[Japon] NHK BS1 [JP]" tvg-logo="" group-title="INTERNATIONAL",[Japon] NHK BS1 [JP]
+http://cdn.us195.jpnettv.live:1935/jptv/nhkbs1_540/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[Japon] NHK BSP" tvg-logo="" group-title="INTERNATIONAL",[Japon] NHK BSP
+http://cdn.us195.jpnettv.live:1935/jptv/bspremium_540/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKWorldTV(English).mx" tvg-name="[Japon] NHK World [EN]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59155_dark_360w_270h.png" group-title="INTERNATIONAL",[Japon] NHK World [EN]
+https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 tvg-id="NHKTVWorldPremium(English).mx" tvg-name="[Japon] NHK World Premium [JP]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19733_dark_360w_270h.png" group-title="INTERNATIONAL",[Japon] NHK World Premium [JP]
+http://112.72.4.108/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_1500000=5-mp4a_128000=2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[Japon] TV Tokyo [JP]" tvg-logo="" group-title="INTERNATIONAL",[Japon] TV Tokyo [JP]
+http://203.162.235.41:16908
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[Singapur] CNA Channel Newsasia [EN]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Channel_NewsAsia.svg/revision/latest/scale-to-width-down/250?cb=20190401004018" group-title="INTERNATIONAL",[Singapur] CNA Channel Newsasia [EN]
+https://mediacorp-videosbclive.akamaized.net/c6717ac64d72465eae79bfbc2064d893/ap-southeast-1/6057994443001/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anime Zone TV [ES]" tvg-logo="" group-title="INTERNATIONAL",Anime Zone TV [ES]
+https://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Demand Africa [EN audio] [ES subs]" tvg-logo="" group-title="INTERNATIONAL",Demand Africa [EN audio] [ES subs]
+https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Locomotion TV (no 24/7) [ES]" tvg-logo="" group-title="INTERNATIONAL",Locomotion TV (no 24/7) [ES]
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rock TV (Rumania)" tvg-logo="" group-title="INTERNATIONAL",Rock TV (Rumania)
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w301581160_b1600000.m3u8?publisher=83
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tastemade en Español" tvg-logo="" group-title="INTERNATIONAL",Tastemade en Español
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UDG TV - Canal 44 Noticias (GDL)" tvg-logo="https://s2.dmcdn.net/v/Ni1Xk1bLoUk4RXrIG/x240" group-title="MEXICO",UDG TV - Canal 44 Noticias (GDL)
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta118.cdnmedia.tv/udgmxlive/smil:44noticias.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AMAS.mx" tvg-name="A+ (A mas) 7.2 Nacional" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116157_dark_360w_270h.png" group-title="MEXICO",A+ (A mas) 7.2 Nacional
+https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
+#EXTINF:-1 tvg-id="XEIMTTVMetropolitan(Canal22).mx" tvg-name="Canal 22" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116168_dark_360w_270h.png" group-title="MEXICO",Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/chunklist_w447053634_b1428000_sleng.m3u8
+#EXTINF:-1 tvg-id="Canal44(XHUDGTDT).mx" tvg-name="UDG TV - Canal 44 (GDL)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116227_dark_360w_270h.png" group-title="MEXICO",UDG TV - Canal 44 (GDL)
+https://d1z4fimdtfln1a.cloudfront.net/out/v1/676aa6ed9fee4c8b8273eea95984bb1a/index.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 44 Chihuahua" tvg-logo="https://1.bp.blogspot.com/-gWtdLeujV14/Xu0VmZSGdWI/AAAAAAAAJ4Y/_m_6ha6ZJxYLs556AkoHUK0iFXCKnUJ9QCLcBGAsYHQ/s1600/canal-44.png" group-title="MEXICO",Canal 44 Chihuahua
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/chunklist_w754332697.m3u8
+#EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="Canal 6 Multimedios CDMX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91505_dark_360w_270h.png" group-title="MEXICO",Canal 6 Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="Canal 6 Multimedios Guadalajara" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91505_dark_360w_270h.png" group-title="MEXICO",Canal 6 Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="Canal 6 Multimedios Monterrey" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s99620_dark_360w_270h.png" group-title="MEXICO",Canal 6 Multimedios Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce 14" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90518_dark_360w_270h.png" group-title="MEXICO",Canal Catorce 14
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
+#EXTINF:-1 tvg-id="DuplicateXEIPNTVCanal11(OnceTV).mx" tvg-name="Canal Once (canal 11)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116166_dark_360w_270h.png" group-title="MEXICO",Canal Once (canal 11)
+https://d24sa4vr9gvjv.cloudfront.net/index_720.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital 21 TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Capital-21-TV-en-vivo-Online-324x160.png" group-title="MEXICO",Capital 21 TV
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JaliscoTV 17.1" tvg-logo="https://jaliscotv.com/images/Logo-JTV.svg" group-title="MEXICO",JaliscoTV 17.1
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+#EXTINF:-1 tvg-id="MexicoTravelChannel.mx" tvg-name="Mexico Travel Channel *" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60939_dark_360w_270h.png" group-title="MEXICO",Mexico Travel Channel *
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZawRDM7ufd0V3LDVdIwJ7rI18SRKhyLn5biThAv9AvXM)/dm/3/x7v76vf/s/live-1.m3u8
+#EXTINF:-1 tvg-id="TVMexiquense.mx" tvg-name="Mexiquense Television" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28440_dark_360w_270h.png" group-title="MEXICO",Mexiquense Television
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w753899143.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDIxIDc6NDA6MjcgUE0maGFzaF92YWx1ZT01MmJGNFRISWNDKzQ0WlJ1MllXSktRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
+#EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVS TV (no 24/7)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s15213_dark_360w_270h.png" group-title="MEXICO",MVS TV (no 24/7)
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Turistik TV" tvg-logo="https://turistiktv.com.mx/wp-content/uploads/2021/12/cropped-LOGO-TURISTIK-300-BLANCO-165x86.png" group-title="MEXICO",Turistik TV
+https://5fa5de1a545ae.streamlock.net/8030/8030/chunklist_w1452140396.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Mar Puerto Vallarta" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/TV-Mar-en-vivo-Online-218x150.png" group-title="MEXICO",TV Mar Puerto Vallarta
+https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/chunklist_w134748393_b3428000_sleng.m3u8
+#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116169_dark_360w_270h.png" group-title="MEXICO",TV UNAM
+https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/chunklist_w863049113_DVR.m3u8
