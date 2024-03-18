@@ -51,7 +51,7 @@ https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w3015811
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UDG TV - Canal 44 Noticias (GDL)" tvg-logo="https://s2.dmcdn.net/v/Ni1Xk1bLoUk4RXrIG/x240" group-title="MEXICO",UDG TV - Canal 44 Noticias (GDL)
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta118.cdnmedia.tv/udgmxlive/smil:44noticias.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/udgmxlive/smil:44noticias.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="AMAS.mx" tvg-name="A+ (A mas) 7.2 Nacional" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116157_dark_360w_270h.png" group-title="MEXICO",A+ (A mas) 7.2 Nacional
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 #EXTINF:-1 tvg-id="XEIMTTVMetropolitan(Canal22).mx" tvg-name="Canal 22" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116168_dark_360w_270h.png" group-title="MEXICO",Canal 22
